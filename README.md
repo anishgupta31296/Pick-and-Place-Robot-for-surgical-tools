@@ -12,3 +12,7 @@ A UR10 robot equipped with a vacuum gripper performing pick-and-place operations
 2. Build the workspace:
 ```bash
 colcon build
+
+3. Source the workspace:
+```bash
+source install/setup.bash
