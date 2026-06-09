@@ -14,3 +14,5 @@ Steps to run the package
 Optional
 
 1. To visualize it in Rviz, please run "ros2 run surgical_robot display.launch.py"
+Report: https://drive.google.com/file/d/11qMs1MFtcZWggzyGDeeada7Y0V4CAbhn/view?usp=sharing
+Video: https://drive.google.com/file/d/1SveHbut_GvEvQvpZNzMg7xvElcUgWDXQ/view?usp=sharing
